@@ -2,7 +2,7 @@
 
 | Questions | Date | Status |
 | --- | :---: | :---: |
-| [First Principles Thinking Engine](https://github.com/your-username/first-principles-thinking-engine) | 2026-05-31 | Idea |
+| [First Principles Thinking Engine](https://github.com/senthilnathan01/first-principles-thinking-engine) | 2026-05-31 | Idea |
 | Drag-select and add to notes (essentially replaces tiresome process of copy pasting and app switching while note taking) | 2026-05-31 | Idea |
 | Given a prompt (say, to build an app) Agent shouldn't one shot but instead create appropriate branches, make small incremental meaningful commits,... Essentially making it easy for us to look up what is built and modify it if needed | 2026-05-31 | Question |
 | KV Cache sharing | 2026-05-31 | Question |
