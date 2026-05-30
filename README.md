@@ -1,5 +1,11 @@
 # Tracker: Questions / Ideas -> Projects -> Products
 
+This is a small public space for questions, ideas, and possible products that I do not want to keep locked in my head. Some may become apps, some may only need a `SKILLS.md` file or a better workflow inside a favorite LLM, and some may already exist. If something here is already solved, tell me. If something feels worth building, take it up, fork it, or collaborate with me or others.
+
+I am not trying to gatekeep these ideas. I do not have the time to execute everything, and that is fine. In a few years, our favorite LLMs may make many of these easier to build anyway. What matters more is putting useful questions and possible solutions into the world so someone can do something with them.
+
+This front page is intentionally less about me and more about ideas. If you want to know who I am, my website or LinkedIn can do that job. If you are here, I would rather you leave with a better question, a better solution, or something worth building.
+
 | Questions | Date | Status |
 | --- | :---: | :---: |
 | [First Principles Thinking Engine](https://github.com/senthilnathan01/first-principles-thinking-engine) | 2026-05-31 | Idea |
