@@ -9,6 +9,7 @@ This front page is intentionally less about me and more about ideas. If you want
 | Questions | Date | Status |
 | --- | :---: | :---: |
 | Given a prompt (say, to build an app) Agent shouldn't one shot but instead create appropriate branches, make small incremental meaningful commits,... Essentially making it easy for us to look up what is built and modify it if needed | 2026-05-31 | Question |
+| People often give vague prompts because articulating precisely what they need takes effort, or because they do not yet know what they need. They then spend far more time and energy reviewing sloppy output caused by that weak input. How can we help people clarify their intent and get precise results without requiring them to become expert prompt writers? | 2026-06-15 | Question |
 | [Convert dense, text-heavy resumes into readable storydecks](https://github.com/senthilnathan01/resume-storydeck) | 2026-05-31 | Idea |
 | [First Principles Thinking Engine](https://github.com/senthilnathan01/first-principles-thinking-engine) | 2026-05-31 | Idea |
 | [How does LLM context compaction actually work, and can better methods improve quality, speed, and token efficiency?](https://github.com/senthilnathan01/llm-context-compaction) | 2026-05-31 | Question |
