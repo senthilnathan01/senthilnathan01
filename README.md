@@ -8,6 +8,8 @@ This front page is intentionally less about me and more about ideas. If you want
 
 | Questions | Date | Status |
 | --- | :---: | :---: |
+| What should a network for AI agents look like, a shared space where agents can exchange useful context, discover each other, and coordinate work on behalf of people? | 2026-06-16 | Question |
+| How does social network for AI Agents look like? If everyone eventually has a personal agent that holds much of their context, how should agents help people reliably find and connect with others for hiring, friendship, dating, shared interests, or shared goals? | 2026-06-16 | Question |
 | Given a prompt (say, to build an app) Agent shouldn't one shot but instead create appropriate branches, make small incremental meaningful commits,... Essentially making it easy for us to look up what is built and modify it if needed | 2026-05-31 | Question |
 | People often give vague prompts because articulating precisely what they need takes effort, or because they do not yet know what they need. They then spend far more time and energy reviewing sloppy output caused by that weak input. How can we help people clarify their intent and get precise results without requiring them to become expert prompt writers? | 2026-06-15 | Question |
 | [Convert dense, text-heavy resumes into readable storydecks](https://github.com/senthilnathan01/resume-storydeck) | 2026-05-31 | Idea |
