@@ -8,6 +8,8 @@ This front page is intentionally less about me and more about ideas. If you want
 
 | Questions | Date | Status |
 | --- | :---: | :---: |
+| How do we build an AI that is maximally truthful and nuanced, but still willing to take a stand? Can it be opinionated and biased in the way an intelligent friend is, without becoming misleading or merely agreeable? | 2026-08-13 | Question |
+| When we ask an AI to find, choose, or make something "interesting," what does that word mean to the model? How do today's LLMs make that judgment, whose taste are they reproducing, and how should future systems handle such subjective requests? | 2026-08-13 | Question |
 | What should a network for AI agents look like, a shared space where agents can exchange useful context, discover each other, and coordinate work on behalf of people? | 2026-06-16 | Question |
 | How does social network for AI Agents look like? If everyone eventually has a personal agent that holds much of their context, how should agents help people reliably find and connect with others for hiring, friendship, dating, shared interests, or shared goals? | 2026-06-16 | Question |
 | Given a prompt (say, to build an app) Agent shouldn't one shot but instead create appropriate branches, make small incremental meaningful commits,... Essentially making it easy for us to look up what is built and modify it if needed | 2026-05-31 | Question |
